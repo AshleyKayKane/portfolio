@@ -1,0 +1,87 @@
+{
+  "main": {
+    "name":"Ashley Coenen",
+    "description":"Frontend Developer",
+    "image":"profilepic.jpg",
+    "bio":"I am a self-taught developer. I specialize in frontend development but have been working to improve my MERN stack. When I'm not coding/learning code, I am typically hanging out with my dog or friends. I love The Office, It's Always Sunny in Philadelphia, cooking, and drawing.",
+    "contactmessage":"Get in Touch with Me",
+    "email": "ashley@akaydesign.com",
+    "github":"https://github.com/AshleyKayKane",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "city":"Omaha",
+      "state":"NE"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ashley.kay.184/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ashley-coenen-402akc/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AshleyKayKane",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am always working on bettering my skills or learning something new. I believe growth is very important.",
+    
+    "skills":[
+      { "type": "Language",
+        "name":"SCSS Javascript"
+      },
+      { "type": "Framework",
+        "name":"React Node"
+      },
+      { "type": "Tools",
+        "name":"Adobe XD Bootstrap Git VSC"
+      }
+    ],
+
+    "education":[
+      {
+        "school":"University of Nebraska-Omaha",
+        "degree":"Criminology & Criminal Justice",
+        "graduated":"2020",
+        "description":"CUM LAUDE"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+    ]
+  }
+}
