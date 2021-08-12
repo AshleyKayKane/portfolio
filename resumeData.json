@@ -59,28 +59,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Pawtastic | Dog Daycare",
+        "category":"HTML, SCSS, JS, & PHP",
+        "image":"paw.PNG",
+        "url":"https://www.pawtastic.ashleycoenen.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"aKayDesign",
+        "category":"My Web design site. HTML, SCSS, JS, & PHP",
+        "image":"akaydesign.png",
+        "url":"https://www.akaydesign.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Expense Tracker | Project",
+        "category":"A React based expense tracker",
+        "image":"expense-tracker.png",
+        "url":"https://www.expensetracker.ashleycoenen.com"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Gif Page | Project",
+        "category":"A React based gif selector",
+        "image":"gif.png",
+        "url":"https://www.gif.ashleycoenen.com"
       }
     ]
   }
