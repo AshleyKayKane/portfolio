@@ -426,10 +426,10 @@ e. Others
      -ms-transition: all 200ms ease-in-out;
      transition: all 200ms ease-in-out;
  
-    -moz-border-radius: 0px;
-    -webkit-border-radius: 0px;
-    -khtml-border-radius: 0px;
-     border-radius: 0px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+     border-radius: 7px;
  }
  .pagination .page-numbers:hover {
     background: #838A91;
@@ -482,10 +482,10 @@ e. Others
      -ms-transition: all .2s ease-in-out;
      transition: all .2s ease-in-out;
  
-    -moz-border-radius: 0px;
-    -webkit-border-radius: 0px;
-    -khtml-border-radius: 0px;
-    border-radius: 0px;
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 7px;
  }
  
  .button:hover,
