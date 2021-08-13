@@ -14,7 +14,7 @@
       "state":"NE"
     },
     "website": "https://www.ashleycoenen.com",
-    "resumedownload":"./ashley-Coenen.pdf",
+    "resumedownload":"./public/ashley-Coenen.pdf",
     "social":[
       {
         "name":"facebook",
