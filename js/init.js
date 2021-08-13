@@ -36,8 +36,7 @@ jQuery(document).ready(function($) {
 
         navigation_links.parent().removeClass("current");
         active_link.parent().addClass("current");
-      },
-      offset: "35%"
+      }
     });
 
     $("header").css({ height: $(window).height() });

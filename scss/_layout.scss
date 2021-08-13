@@ -78,6 +78,16 @@ header {
         a:hover { color: $accent-color; }
      }
  }
+ .social-link {
+    font-size: 30px;
+    margin-right: 50px !important;
+    padding: 0;
+    float: right;
+        
+        a { color: $white; }
+        a:hover { color: $accent-color2 !important; }
+     
+ }
  /* scrolldown link */
  .scrolldown{ a {
     position: absolute;
@@ -164,17 +174,7 @@ li {
         transition: color .2s ease-in-out;
     }
 }
-.right{ float: right;
-    position: relative;
-   list-style: none;
-   height: 48px;
-   margin-right: 4%;
-   button{font: 12px 'opensans-bold', sans-serif !important;
-    text-transform: uppercase;
-    letter-spacing: 2.5px;}
 }
-}
-
 ul#nav li a:active { background-color: transparent !important; }
 ul#nav li.current a { color: $accent-color2; text-shadow: 2px 2px 8px $black; }
 
