@@ -2,15 +2,17 @@ import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
 
+
 class Header extends Component {
   render() {
     if (!this.props.data) return null;
 
     const project = this.props.data.project;
     const github = this.props.data.github;
+    const code = this.props.data.code;
     const name = this.props.data.name;
     const description = this.props.data.description;
-    
+ 
 
     return (
       <header id="home">
@@ -53,6 +55,12 @@ class Header extends Component {
               <a className="smoothscroll" href="#contact">
                 Contact
               </a>
+            </li>
+
+            <li className="social-link">
+            <a href={code} >
+                  <i className="fa fa-github"></i>
+                </a>
             </li>
           </ul>
         </nav>

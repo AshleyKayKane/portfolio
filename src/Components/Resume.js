@@ -84,10 +84,9 @@ class Resume extends Component {
                       <li>CSS</li>
                       <li>SCSS</li>
                       <li>JavaScript</li>
+                      <li>jQuery</li>
                       <li>React</li>
                       <li>Bootstrap</li>
-                      <li>Familiar with jQuery</li>
-
                     </ul>
                   </div>
                 </div>
