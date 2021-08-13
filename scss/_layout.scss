@@ -197,9 +197,9 @@ ul#nav li.current a { color: $accent-color2; text-shadow: 2px 2px 8px $black; }
   }
 }
   
-  .tooltip:hover .tooltiptext {
+  .tooltip:hover{ .tooltiptext {
     visibility: visible;
-  }
+  }}
 
 /* ------------------------------------------------------------------ */
 /* c. About Section
