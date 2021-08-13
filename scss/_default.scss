@@ -29,6 +29,7 @@ e. Others
  @import url("fonts.css");
  @import url("fontello/css/fontello.css");
  @import url("font-awesome/css/font-awesome.min.css");
+ @import "variables";
  
  /* ------------------------------------------------------------------
  /* b. Reset
@@ -465,7 +466,7 @@ e. Others
  input[type="reset"],
  input[type="button"] {
     font: 16px/30px 'opensans-bold', sans-serif;
-    background: #11ABB0;
+    background: $primary-color;
     display: inline-block;
      text-decoration: none;
     letter-spacing: 0;

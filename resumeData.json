@@ -7,13 +7,14 @@
     "contactmessage":"Get in Touch with Me",
     "email": "ashley@akaydesign.com",
     "github":"https://github.com/AshleyKayKane",
+    "code":"https://github.com/AshleyKayKane/portfolio",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
       "city":"Omaha",
       "state":"NE"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://www.ashleycoenen.com",
+    "resumedownload":"./ashley-Coenen.pdf",
     "social":[
       {
         "name":"facebook",
@@ -60,27 +61,33 @@
     "projects": [
       {
         "title":"Pawtastic | Dog Daycare",
-        "category":"HTML, SCSS, JS, & PHP",
+        "category":"HTML, SCSS, JS & PHP",
         "image":"paw.PNG",
-        "url":"https://www.pawtastic.ashleycoenen.com"
+        "url":"https://www.pawtastic.ashleycoenen.com",
+        "code":"https://github.com/AshleyKayKane/pawtastic"
+
       },
       {
-        "title":"aKayDesign",
-        "category":"My Web design site. HTML, SCSS, JS, & PHP",
-        "image":"akaydesign.png",
-        "url":"https://www.akaydesign.com"
+        "title":"aKayDesign | Freelance",
+        "category":"HTML, SCSS, JS & PHP",
+        "image":"akaydesign-front.png",
+        "url":"https://www.akaydesign.com",
+        "code":"https://github.com/AshleyKayKane/akaydesign"
       },
       {
         "title":"Expense Tracker | Project",
         "category":"A React based expense tracker",
         "image":"expense-tracker.png",
-        "url":"https://www.expensetracker.ashleycoenen.com"
+        "url":"https://www.expensetracker.ashleycoenen.com",
+        "code":"https://github.com/AshleyKayKane/react-expense-tracker"
+
       },
       {
         "title":"Gif Page | Project",
         "category":"A React based gif selector",
-        "image":"gif.png",
-        "url":"https://www.gif.ashleycoenen.com"
+        "image":"gif-front.png",
+        "url":"https://www.gif.ashleycoenen.com",
+        "code":"https://github.com/AshleyKayKane/giphy"
       }
     ]
   }

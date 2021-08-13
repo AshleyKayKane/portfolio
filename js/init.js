@@ -14,7 +14,7 @@ jQuery(document).ready(function($) {
           {
             scrollTop: $target.offset().top
           },
-          800,
+          150,
           "swing",
           function() {
             window.location.hash = target;
