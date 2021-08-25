@@ -20,6 +20,7 @@
 /* ------------------------------------------------------------------ */
 
 body { background: $black; }
+.mt-2{ margin-top: 2%; }
 
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
@@ -311,6 +312,7 @@ ul#nav li.current a { color: $accent-color2; text-shadow: 2px 2px 8px $black; }
     }
     .award{ font: 15px/24px 'opensans-regular', sans-serif;}
 }
+
 
 /*----------------------------------------------*/
 /*	Skill Bars
@@ -702,7 +704,7 @@ opacity: 1;
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: $detail-color url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: $detail-color url(images/testimonials-bg.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;

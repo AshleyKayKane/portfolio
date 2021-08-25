@@ -37,14 +37,35 @@
     "skillmessage":"I am always working on bettering my skills or learning something new. I believe growth is very important.",
     
     "skills":[
-      { "type": "Language",
-        "name":"SCSS Javascript"
+      { "image":"icons8-html-5.svg",
+        "name":"HTML5"
       },
-      { "type": "Framework",
-        "name":"React Node"
+      { "image":"icons8-css3.svg",
+        "name":"CSS"
       },
-      { "type": "Tools",
-        "name":"Adobe XD Bootstrap Git VSC"
+      { "image":"icons8-sass-avatar.svg",
+        "name":"Sass"
+      },
+      { "image":"icons8-javascript.svg",
+        "name":"Javascript"
+      },
+      { "image":"icons8-react.svg",
+        "name":"React.js"
+      },
+      { "image":"icons8-node-js.svg",
+        "name":"Node.js"
+      },
+      { "image":"icons8-adobe-xd.svg ",
+        "name":"Adobe XD"
+      },
+      { "image":"icons8-bootstrap.svg",
+        "name":"Bootstrap"
+      },
+      { "image":"icons8-git.svg",
+        "name":"Git"
+      },
+      { "image":"icons8-visual-studio-logo.svg",
+        "name":"Visual Studio Code"
       }
     ],
 
@@ -57,8 +78,25 @@
       }
     ]
   },
+  "testimonials":{
+    "testimonials":[
+      {
+      "company": "Nebraska Vietnam Veterans",
+      "url":"https://www.nebraskavietnamveterans.com",
+      "name":"Terry Hester",
+      "title":" President",
+      "text":"...went above and beyond our expectations. I highly recommend Ashley for all your website needs. She is knowledgeable, a team player, customer oriented and an overall pleasant person to work with."
+      }
+    ]
+  },
   "portfolio":{
     "projects": [
+      {
+        "title":"NE State Council & Chapter 279 VVA",
+        "category":"HTML, CSS, & JS",
+        "image":"paw.PNG",
+        "url":"https://www.nebraskavietnamveterans.com"
+      },
       {
         "title":"Pawtastic | Dog Daycare",
         "category":"HTML, SCSS, JS & PHP",
@@ -83,11 +121,34 @@
 
       },
       {
+        "title":"Weather Forecast | API Project",
+        "category":"A Vanilla JS based weather app",
+        "image":"weather-app.png",
+        "url":"https://www.weather.ashleycoenen.com",
+        "code":"https://github.com/AshleyKayKane/vanillaJS-weather"
+      }
+    ],
+    "other-projects": [
+      {
         "title":"Gif Page | Project",
         "category":"A React based gif selector",
         "image":"gif-front.png",
         "url":"https://www.gif.ashleycoenen.com",
         "code":"https://github.com/AshleyKayKane/giphy"
+      },
+      {
+        "title":"Weather Forecast | API Project",
+        "category":"A Vanilla JS based weather app",
+        "image":"weather-app.png",
+        "url":"https://www.weather.ashleycoenen.com",
+        "code":"https://github.com/AshleyKayKane/vanillaJS-weather"
+      },
+      {
+        "title":"Dad Jokes | API Project",
+        "category":"A Vanilla JS based dad joke generator",
+        "image":"dadjoke.png",
+        "url":"https://www.dadjoke.ashleycoenen.com",
+        "code":"https://github.com/AshleyKayKane/vanillaJS-joke"
       }
     ]
   }
